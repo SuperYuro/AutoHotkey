@@ -6,3 +6,14 @@ LCtrl::CapsLock
 ; Swap RAlt and RWin
 RAlt::RWin
 RWin::RAlt
+
+; Vim-like keybindings
+>!>#h::Left
+>!>#j::Down
+>!>#k::Up
+>!>#l::Right
+
+>!>#a::Home
+>!>#e::End
+
+^[::Esc
